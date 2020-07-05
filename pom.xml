@@ -48,13 +48,6 @@
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
 
-        <!-- 监控端点actuator -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
-
-
         <!-- springboot web开发freemarker模板 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
